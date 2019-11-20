@@ -7,6 +7,10 @@
   deadline: '2019-11-19 23:59:59'
   #abstract_deadline: '2019-11-15 23:59:59'
   #timezone: UTC-12
+  link: http://ecai2020.eu/
+  deadline: 2019-11-19 23:59:59
+  abstract_deadline: '2019-11-15 23:59:59'
+  timezone: Etc/GMT+7
   date: June 8-12, 2020
   place: laidasiwei
   sub: ML
@@ -16,7 +20,7 @@
   year: 2020
   id: ecai20
   link: http://ecai2020.eu/
-  deadline: '2019-11-19 23:59:59'
+  deadline: "2019-11-19 23:59:59"
   abstract_deadline: '2019-11-15 23:59:59'
   timezone: UTC-12
   date: June 8-12, 2020
